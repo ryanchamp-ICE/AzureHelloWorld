@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureHelloWorld", "AzureHelloWorld\AzureHelloWorld.csproj", "{6EE1D7B9-AD1A-4C46-8487-7D00C8816421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureHelloWorld.Tests", "AzureHelloWorld.Tests\AzureHelloWorld.Tests.csproj", "{D8E919F9-CF9F-4B20-8A36-BC910E0C521A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EE1D7B9-AD1A-4C46-8487-7D00C8816421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE1D7B9-AD1A-4C46-8487-7D00C8816421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE1D7B9-AD1A-4C46-8487-7D00C8816421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE1D7B9-AD1A-4C46-8487-7D00C8816421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E919F9-CF9F-4B20-8A36-BC910E0C521A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E919F9-CF9F-4B20-8A36-BC910E0C521A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E919F9-CF9F-4B20-8A36-BC910E0C521A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E919F9-CF9F-4B20-8A36-BC910E0C521A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
