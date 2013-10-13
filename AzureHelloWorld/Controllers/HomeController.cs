@@ -10,7 +10,7 @@ namespace AzureHelloWorld.Controllers
 	{
 		public ActionResult Index()
 		{
-			ViewBag.Message = "Hello Windows Azure. :-)";
+			ViewBag.Message = "Hello CJ. This is your future :-)";
 
 			return View();
 		}
